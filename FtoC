@@ -1,0 +1,18 @@
+// Marc Ploesser
+// Convert temps f to C
+import java.util.Scanner;
+public class FtoC {
+    public static void main(String args[]) {
+      double Fahrenheit=86.0;
+      double Celsius=(5*(Fahrenheit-32))/9;
+      Celsius = (5/9) * (Fahrenheit - 32);
+      System.out.println("temperature is " + Celsius + " degrees Celsius");
+      System.out.println(Celsius);
+    }
+}
+
+*//The computer I am using now is not my school computer.
+The Vista machine I use for school is too old to open Google Meet, 
+so I am using someone else's for meetings. 
+If possible, could we meet on Zoom later? 
+Oddly enough, Zoom will work on the Vista computer.*/
